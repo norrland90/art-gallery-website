@@ -7,7 +7,7 @@ const map = L.map('map', {
 });
 
 const locationIcon = L.icon({
-  iconUrl: '../assets/images/icon-location.svg',
+  iconUrl: 'assets/images/icon-location.svg',
 });
 
 L.tileLayer
